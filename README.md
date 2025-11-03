@@ -13,6 +13,6 @@
  
  Team member : Maria Kavin A 
  
- Servicenow Instance: https://dev320313.service-now.com
-
+ Servicenow Instance:  https://dev320313.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=V%24xrG8%5EL2xiX
+  
  video drive link: https://drive.google.com/file/d/1rkCNwIuzcPKBOIX2ZMLDf0fZSTJSZHNy/view?usp=sharing
